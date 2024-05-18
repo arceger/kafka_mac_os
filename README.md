@@ -33,6 +33,11 @@ kafka-console-producer --broker-list localhost:9092 --topic topic1
 kafka-console-consumer --bootstrap-server localhost:9092 --topic topic1
 
 
+### apos estas validacoes, se tudo estiver okay, podes postar e ler com aplicacao em java
+
+- espero ter ajudado !!!
+
+
 
 
 
