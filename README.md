@@ -13,13 +13,13 @@
 
 ### crie seu topico
 
+-- pode usar o nome do topico que quiser, e quantas particoes e replicas quiser, dependendo do seu sistema e uso.
+
 - kafka-topics --bootstrap-server localhost:9092 --topic topic1 --create --partitions 3 --replication-factor 1
-- kafka-topics.sh --bootstrap-server localhost:9092 --list
 
 ### Listar o topico criado
 
 - kafka-topics --list --bootstrap-server localhost:9092
-
 
 
 ### validacao da instalacao -- testes de console
