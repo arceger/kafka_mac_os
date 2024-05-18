@@ -1,4 +1,4 @@
-###  Instalacao e configuracao kafka macos 
+###  Instalacao e configuracao kafka mac_os (intel)
 
 ### producer e consumer com java
 
